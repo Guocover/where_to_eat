@@ -1,0 +1,1 @@
+ const unsigned char lunchHelperVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:lunchHelper  PROJECT:lunchHelper-1" "\n"; const double lunchHelperVersionNumber __attribute__ ((used)) = (double)1.;
